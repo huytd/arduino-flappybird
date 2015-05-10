@@ -2,7 +2,7 @@
 
 Source code of my weekend project: Flappy Bird game on Arduino, using `Nokia 5110 LCD` 
 
-![alt text](https://s3-ap-southeast-1.amazonaws.com/kipalog.com/arduinoflappy.jpg_u3upyc76oh)
+![](http://img.youtube.com/vi/04cY78Y2d3g/0.jpg)
 **Video**: https://www.youtube.com/watch?v=04cY78Y2d3g
 
 ### Wiring
